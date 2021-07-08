@@ -15,6 +15,7 @@ namespace BlobStorageDemoApp
         static string filepath = "E:\\demo blobs\\demo1.txt";
         static string downloadpath = "E:\\demo blobs\\Downloadedfilesfromazure";
 
+        //reference: https://www.c-sharpcorner.com/article/azure-storage-crud-operations-in-mvc-using-c-sharp-part-two/
         static void Main(string[] args)
         {
             Console.WriteLine("Learn Azure storage and how to work with different dot net classes");
